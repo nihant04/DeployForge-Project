@@ -1,0 +1,29 @@
+<svg width="32" height="32" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rounded dark background to make the emblem pop in all tab themes -->
+  <rect width="100" height="100" rx="22" fill="#030712" />
+  
+  <!-- Drifting blue pixels/squares on the left -->
+  <rect x="18" y="28" width="4" height="4" rx="1" fill="#3b82f6" opacity="0.8" />
+  <rect x="25" y="28" width="4" height="4" rx="1" fill="#06b6d4" />
+  <rect x="25" y="35" width="4" height="4" rx="1" fill="#3b82f6" opacity="0.6" />
+  <rect x="12" y="42" width="4" height="4" rx="1" fill="#06b6d4" opacity="0.7" />
+  <rect x="18" y="42" width="4" height="4" rx="1" fill="#3b82f6" />
+  <rect x="25" y="49" width="4.5" height="4.5" rx="1" fill="#06b6d4" />
+  <rect x="18" y="56" width="4" height="4" rx="1" fill="#3b82f6" opacity="0.7" />
+  <rect x="13" y="49" width="3.5" height="3.5" rx="1" fill="#06b6d4" opacity="0.5" />
+  <rect x="18" y="69" width="3.5" height="3.5" rx="1" fill="#3b82f6" opacity="0.8" />
+  <rect x="25" y="62" width="4.5" height="4.5" rx="1" fill="#3b82f6" />
+  <rect x="32" y="35" width="4.5" height="4.5" rx="1" fill="#3b82f6" />
+  <rect x="32" y="42" width="5" height="5" rx="1" fill="#06b6d4" />
+  <rect x="32" y="56" width="5" height="5" rx="1" fill="#3b82f6" />
+  <rect x="32" y="49" width="4.5" height="4.5" rx="1" fill="#3b82f6" opacity="0.5" />
+
+  <!-- Stylized White 'D' contour -->
+  <path
+    d="M51 28H62C75.2548 28 86 37.8497 86 50C86 62.1503 75.2548 72 62 72H51C45.5 72 40 68.5 37 63L45 58.5C46.5 61.5 49 63.5 52 63.5H62C70.2843 63.5 77 57.4558 77 50C77 42.5442 70.2843 36.5 62 36.5H52C49 36.5 46.5 38.5 45 41.5L37 37C40 31.5 45.5 28 51 28Z"
+    fill="white"
+  />
+
+  <!-- Solid Blue Horizontal inner Loop Bar -->
+  <rect x="45" y="45.5" width="22" height="9" rx="4.5" fill="#0082f6" />
+</svg>
